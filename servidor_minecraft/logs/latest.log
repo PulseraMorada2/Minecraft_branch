@@ -615,3 +615,63 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Aug2024 20:21:15.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
 [30Aug2024 20:21:15.153] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rodry_Dra (86d12246-1f3c-3af8-b7a9-2f1c31d28ad9) successfully connected to voice chat
 [30Aug2024 20:21:17.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> se me olvido
+[30Aug2024 20:21:26.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> jajajjaja
+[30Aug2024 20:22:07.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> oye, no botes la carne podrida porque sirve para hacer comida
+[30Aug2024 20:22:17.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> pi0la
+[30Aug2024 20:22:38.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> yo todo item que agarro toco la U para ver para que sirve
+[30Aug2024 20:22:46.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> jsjsjs
+[30Aug2024 20:23:30.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> fua me encantan los biomas que hay
+[30Aug2024 20:23:33.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> Son bellisimos
+[30Aug2024 20:23:45.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[30Aug2024 20:23:45.584] [Server thread/WARN] [tombstone/]: The death event of the player Rodry_Dra was canceled by another mod
+[30Aug2024 20:23:45.595] [Server thread/INFO] [tombstone/]: The player Rodry_Dra has successfully been saved
+[30Aug2024 20:23:48.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> a
+[30Aug2024 20:23:49.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> a
+[30Aug2024 20:23:56.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra was slain by entity.kim_dweller.kim_dweller
+[30Aug2024 20:23:59.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> AAAAAA UN DRAGON
+[30Aug2024 20:24:07.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
+[30Aug2024 20:24:14.043] [Server thread/WARN] [cgm/]: literal{Pinwino}(2abe1453-323e-3268-bba3-171dfed1f1ce) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
+[30Aug2024 20:24:19.584] [Server thread/WARN] [cgm/]: literal{Pinwino}(2abe1453-323e-3268-bba3-171dfed1f1ce) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 135
+[30Aug2024 20:24:35.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> jajajajaj
+[30Aug2024 20:25:09.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[30Aug2024 20:25:09.494] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
+[30Aug2024 20:25:09.498] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
+[30Aug2024 20:25:13.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> agh
+[30Aug2024 20:25:17.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> se me bajo la cordura :C
+[30Aug2024 20:25:25.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> nuuuu
+[30Aug2024 20:25:25.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by Sneaking Terror
+[30Aug2024 20:25:30.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3822ms or 76 ticks behind
+[30Aug2024 20:25:53.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7707ms or 154 ticks behind
+[30Aug2024 20:26:32.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> zzzzz
+[30Aug2024 20:26:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> no tengo cama
+[30Aug2024 20:26:48.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> nooooooo
+[30Aug2024 20:26:54.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> tienes un waystone?
+[30Aug2024 20:26:59.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> ci
+[30Aug2024 20:27:03.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> ve a la aldea
+[30Aug2024 20:27:04.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> pero no tengo xp XD
+[30Aug2024 20:27:08.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> que aparece en amarillo
+[30Aug2024 20:27:10.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> No necesitas xp
+[30Aug2024 20:27:12.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> toda la mala
+[30Aug2024 20:27:22.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> al parecer, a mi no me pide xp
+[30Aug2024 20:27:52.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> a tu aldea creo que si
+[30Aug2024 20:27:59.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> alli hay cama
+[30Aug2024 20:28:03.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> si , si me pide
+[30Aug2024 20:28:08.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> que raro
+[30Aug2024 20:28:13.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> y porque no me pide ami ;-;
+[30Aug2024 20:28:17.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> hay monstruos cerca
+[30Aug2024 20:28:25.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> capas por que estan cerca
+[30Aug2024 20:28:32.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> a mi la aldea que tengo alado no me pide
+[30Aug2024 20:28:37.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> Jum
+[30Aug2024 20:28:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> Igual, fui a la casa de isa y esa si esta lejos
+[30Aug2024 20:28:50.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> capaz porque tengo el OP?
+[30Aug2024 20:28:50.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> como asi ??
+[30Aug2024 20:28:54.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> capaz
+[30Aug2024 20:28:57.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> Puse un tp en la casa del isa
+[30Aug2024 20:29:48.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> m mopri
+[30Aug2024 20:31:02.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> tamadre
+[30Aug2024 20:31:10.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[30Aug2024 20:31:10.194] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
+[30Aug2024 20:31:10.198] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
+[30Aug2024 20:31:16.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was shot by Skeleton
+[30Aug2024 20:31:21.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4295ms or 85 ticks behind
+[30Aug2024 20:32:01.073] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/15246, l='ServerLevel[world]', x=22.52, y=73.00, z=-995.45] died, message: 'Cartographer was slain by Zombie'
