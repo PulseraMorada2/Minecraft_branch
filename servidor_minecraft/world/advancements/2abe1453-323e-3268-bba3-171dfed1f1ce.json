@@ -610,6 +610,12 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-08-29 05:03:51 +0000"
@@ -849,6 +855,12 @@
       "has_blackstone": "2024-08-29 05:00:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/tconstruct/general/tables/crafting_station": {
     "criteria": {
@@ -1150,6 +1162,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_ladder": {
     "criteria": {
       "has_item": "2024-08-29 04:50:27 +0000"
@@ -1167,6 +1185,12 @@
       "has_cobblestone": "2024-08-29 03:34:52 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1282,6 +1306,12 @@
       "has_iron_ingot": "2024-08-29 03:36:38 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1475,6 +1505,12 @@
       "has_white_wool": "2024-08-29 04:16:03 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
     "criteria": {
@@ -1964,6 +2000,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-08-30 20:52:44 +0000"
@@ -2102,6 +2144,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-08-30 20:52:44 +0000"
@@ -2167,6 +2215,12 @@
       "has_gravel": "2024-08-29 04:38:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
@@ -2602,6 +2656,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-08-29 04:41:21 +0000"
@@ -2626,6 +2686,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-08-29 03:30:36 +0000"
@@ -2643,6 +2709,12 @@
       "has_white_wool": "2024-08-29 04:16:03 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-30 22:17:34 +0000"
+    },
+    "done": false
   },
   "cgm:recipes/cgm/short_scope": {
     "criteria": {
