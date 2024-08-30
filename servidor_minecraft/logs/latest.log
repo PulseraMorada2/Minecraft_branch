@@ -675,3 +675,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Aug2024 20:31:16.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was shot by Skeleton
 [30Aug2024 20:31:21.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4295ms or 85 ticks behind
 [30Aug2024 20:32:01.073] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/15246, l='ServerLevel[world]', x=22.52, y=73.00, z=-995.45] died, message: 'Cartographer was slain by Zombie'
+[30Aug2024 20:32:34.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> avr
+[30Aug2024 20:32:38.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> te voy a poner op
+[30Aug2024 20:32:48.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> y pruebas
+[30Aug2024 20:32:55.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> weno
+[30Aug2024 20:33:05.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> ./gamemode creativo
+[30Aug2024 20:33:05.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
+[30Aug2024 20:33:07.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> re bldo era
+[30Aug2024 20:33:08.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
+[30Aug2024 20:33:09.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> jajajajjaja
+[30Aug2024 20:33:10.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
+[30Aug2024 20:33:12.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> KLASDJKLAS
+[30Aug2024 20:33:22.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Rodry_Dra a server operator
+[30Aug2024 20:33:35.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodry_Dra moved too quickly! 10.06749561892005,0.6668000063657757,-1.9700557927324098
+[30Aug2024 20:33:35.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3889ms or 77 ticks behind
+[30Aug2024 20:33:43.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> nop
+[30Aug2024 20:33:45.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> me sigue pidierndo
+[30Aug2024 20:33:52.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> wtf
+[30Aug2024 20:34:43.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino has made the advancement [Dragonslayer]
+[30Aug2024 20:34:47.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> AJAJAJJAw
+[30Aug2024 20:34:52.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> pi0la
+[30Aug2024 20:35:05.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> las armas estan rotas
+[30Aug2024 20:37:02.588] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23185, l='ServerLevel[world]', x=1874.70, y=64.05, z=-1525.30] died, message: 'Villager suffocated in a wall'
+[30Aug2024 20:37:39.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9 timed out
+[30Aug2024 20:37:39.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rodry_Dra
+[30Aug2024 20:37:39.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rodry_Dra
+[30Aug2024 20:37:48.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
+[30Aug2024 20:39:39.632] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/23199, l='ServerLevel[world]', x=1924.63, y=78.00, z=-1539.69] died, message: 'Weaponsmith was burnt to a crisp whilst fighting Fire Dragon'
+[30Aug2024 20:40:39.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[30Aug2024 20:40:39.683] [Server thread/WARN] [tombstone/]: The death event of the player Rodry_Dra was canceled by another mod
+[30Aug2024 20:40:39.694] [Server thread/INFO] [tombstone/]: The player Rodry_Dra has successfully been saved
+[30Aug2024 20:40:45.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> zzzzz
+[30Aug2024 20:40:47.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra was slain by Skinwalker Overhaul
+[30Aug2024 20:40:52.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> a no
+[30Aug2024 20:40:52.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> JJAJAJ
+[30Aug2024 20:41:09.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> ahi esta tu zzzzz
+[30Aug2024 20:41:23.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> chale
+[30Aug2024 20:42:09.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[30Aug2024 20:42:09.577] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
+[30Aug2024 20:42:09.580] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
+[30Aug2024 20:42:15.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by Rotting Stalker
