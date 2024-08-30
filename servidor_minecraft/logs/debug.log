@@ -6893,3 +6893,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Aug2024 19:58:10.812] [Server thread/DEBUG] [de.cadentem.kim_dweller.KimDweller/]: Kim Mimic Dweller could not pass the spawn checks, target: [ServerPlayer['Pinwino'/583, l='ServerLevel[world]', x=892.98, y=58.85, z=-624.36]]
 [30Aug2024 19:58:22.766] [Server thread/DEBUG] [de.cadentem.hidden_shadow.HiddenShadow/]: The Hidden Shadow could not pass the spawn checks, target: [ServerPlayer['Pinwino'/583, l='ServerLevel[world]', x=884.71, y=55.00, z=-626.46]]
 [30Aug2024 19:58:22.813] [Server thread/DEBUG] [de.cadentem.hidden_shadow.HiddenShadow/]: The Hidden Shadow could not pass the spawn checks, target: [ServerPlayer['Pinwino'/583, l='ServerLevel[world]', x=884.16, y=55.00, z=-626.31]]
+[30Aug2024 20:01:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino has made the advancement [Not Today, Thank You]
+[30Aug2024 20:01:44.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2024 20:01:44.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2024 20:02:20.977] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[30Aug2024 20:02:20.979] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[30Aug2024 20:02:20.979] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[30Aug2024 20:02:20.979] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[30Aug2024 20:02:21.139] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[30Aug2024 20:02:21.139] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[30Aug2024 20:02:21.139] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[30Aug2024 20:02:21.140] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[30Aug2024 20:02:21.491] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[30Aug2024 20:02:21.492] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[30Aug2024 20:02:21.492] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[30Aug2024 20:02:21.493] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[30Aug2024 20:02:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino has made the advancement [A Strange Grave Dust]
+[30Aug2024 20:02:29.248] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[30Aug2024 20:02:29.249] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[30Aug2024 20:02:29.250] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[30Aug2024 20:02:29.251] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[30Aug2024 20:02:34.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pinwino moved too quickly! -1.2237889548952126,-5.231523797587016,-8.703027083331676
+[30Aug2024 20:02:34.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[30Aug2024 20:02:36.959] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[30Aug2024 20:03:20.088] [Worker-Main-8/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[30Aug2024 20:05:48.646] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
+[30Aug2024 20:05:48.840] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
+[30Aug2024 20:05:48.841] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
+[30Aug2024 20:05:48.841] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
+[30Aug2024 20:05:48.842] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
+[30Aug2024 20:05:59.151] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
+[30Aug2024 20:06:46.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2024 20:06:46.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
