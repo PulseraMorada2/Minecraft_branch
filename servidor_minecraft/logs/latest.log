@@ -750,3 +750,45 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Aug2024 20:53:21.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> y puedes agarrar los cofres y las mesas de crafteo apretando shift y click derecho
 [30Aug2024 20:53:40.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/26370, l='ServerLevel[world]', x=-16.70, y=76.00, z=-1003.48] died, message: 'Farmer was slain by Zombie'
 [30Aug2024 20:53:49.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> ci
+[30Aug2024 20:54:49.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Kepu Vein Hammer] to Pinwino]
+[30Aug2024 20:55:28.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Rock Sledge Hammer] to Pinwino]
+[30Aug2024 20:55:33.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Diamond Pickaxe] to Pinwino]
+[30Aug2024 20:56:03.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> bueno
+[30Aug2024 20:56:04.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/26405, l='ServerLevel[world]', x=44.91, y=72.00, z=-995.14] died, message: 'Fletcher was slain by Zombie'
+[30Aug2024 20:56:15.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> mmmmmmm
+[30Aug2024 20:56:33.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> que cords esta tu casa?
+[30Aug2024 20:57:04.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> a, puedes activar las cords sin darle f3. Tienes que darle en opciones y despues en extras
+[30Aug2024 20:57:11.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> -25 - 1043
+[30Aug2024 20:57:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> Osea, opciones graficos y extras
+[30Aug2024 20:57:30.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
+[30Aug2024 20:57:50.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> pi0la
+[30Aug2024 20:59:31.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Potion of Slowness] to Pinwino]
+[30Aug2024 20:59:33.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Potion of Swiftness] to Pinwino]
+[30Aug2024 20:59:43.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Potion of Swiftness] to Pinwino]
+[30Aug2024 21:02:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> hola
+[30Aug2024 21:02:30.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> a
+[30Aug2024 21:02:40.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> buenisimo
+[30Aug2024 21:02:41.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Advanced Bullet] to Pinwino]
+[30Aug2024 21:03:02.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> pi0la
+[30Aug2024 21:03:12.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> es de piedra porque no tengo otro materiual
+[30Aug2024 21:03:14.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> el martillo
+[30Aug2024 21:03:20.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> no pasa anda
+[30Aug2024 21:03:21.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Rock Repair Kit] to Pinwino]
+[30Aug2024 21:03:21.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Rock Repair Kit] to Pinwino]
+[30Aug2024 21:03:22.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Rock Repair Kit] to Pinwino]
+[30Aug2024 21:03:22.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Rock Repair Kit] to Pinwino]
+[30Aug2024 21:03:22.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> nada
+[30Aug2024 21:03:22.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Rock Repair Kit] to Pinwino]
+[30Aug2024 21:03:22.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Rock Repair Kit] to Pinwino]
+[30Aug2024 21:03:22.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Rock Repair Kit] to Pinwino]
+[30Aug2024 21:03:23.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Rock Repair Kit] to Pinwino]
+[30Aug2024 21:03:23.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Rock Repair Kit] to Pinwino]
+[30Aug2024 21:03:25.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> messi
+[30Aug2024 21:03:38.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> pi0la
+[30Aug2024 21:03:48.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> toca ver review de este mod q no entiendo un pingo
+[30Aug2024 21:03:56.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> seee tjajja
+[30Aug2024 21:04:04.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> fua, me pide 1xp nada mas
+[30Aug2024 21:04:11.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[30Aug2024 21:04:11.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> jajajaja
+[30Aug2024 21:04:25.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> soy feliz
+[30Aug2024 21:04:34.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> por que queria haer una sala de cofres abajo de mi casa

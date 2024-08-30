@@ -1295,6 +1295,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2024-08-30 20:54:50 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2024-08-29 03:32:54 +0000"
@@ -1312,6 +1318,12 @@
       "has_iron_ingot": "2024-08-29 03:36:38 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "rock": "2024-08-30 20:55:29 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_brick": {
     "criteria": {
@@ -1858,6 +1870,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-08-29 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2024-08-30 21:03:24 +0000"
     },
     "done": true
   },
@@ -2466,6 +2484,13 @@
       "has_item": "2024-08-29 05:30:40 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "sledge_hammer": "2024-08-30 20:55:29 +0000",
+      "vein_hammer": "2024-08-30 20:54:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
