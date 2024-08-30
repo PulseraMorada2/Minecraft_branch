@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "961462fb-03ad-317a-bbde-0142cca180cc",
+    "name": "PulseraMorada",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d0c014e9-258e-3e6c-bcfa-d3313fdecf81",
+    "name": "Lunacram",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2abe1453-323e-3268-bba3-171dfed1f1ce",
+    "name": "Pinwino",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
