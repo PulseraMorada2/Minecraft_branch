@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-08-30 21:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-08-28 03:44:14 +0000"
@@ -74,6 +80,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-08-28 04:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-08-30 21:30:03 +0000"
     },
     "done": true
   },
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-08-30 21:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-08-28 03:42:41 +0000"
@@ -209,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-08-30 21:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-08-30 19:33:19 +0000"
@@ -251,6 +275,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2024-08-30 21:32:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-08-28 03:42:51 +0000"
@@ -266,6 +296,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-08-30 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-08-30 21:26:14 +0000"
     },
     "done": true
   },
@@ -473,6 +509,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2024-08-30 21:24:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-08-29 05:24:29 +0000"
@@ -548,6 +590,12 @@
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-08-29 05:27:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_sign_wood": {
+    "criteria": {
+      "has_item": "2024-08-30 21:32:43 +0000"
     },
     "done": true
   },
@@ -645,6 +693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-08-30 21:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2024-08-28 05:15:09 +0000"
@@ -684,6 +738,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-08-30 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "skeleton_druid": "2024-08-30 21:24:47 +0000"
     },
     "done": true
   },
@@ -1107,6 +1167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-08-30 21:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-08-28 03:40:40 +0000"
@@ -1140,6 +1206,12 @@
   "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_chestplate": {
     "criteria": {
       "has_item": "2024-08-28 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2024-08-30 21:32:43 +0000"
     },
     "done": true
   },
@@ -1316,6 +1388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-08-30 21:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2024-08-28 03:43:02 +0000"
@@ -1387,6 +1465,12 @@
       "rock": "2024-08-30 21:03:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2024-08-30 21:26:16 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_brown": {
     "criteria": {
@@ -1466,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-08-30 21:30:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-08-28 04:34:51 +0000"
@@ -1481,6 +1571,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-08-28 03:42:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2024-08-30 21:32:43 +0000"
     },
     "done": true
   },
@@ -1502,6 +1598,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2024-08-30 21:32:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2024-08-30 21:32:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-08-28 03:42:57 +0000"
@@ -1511,6 +1619,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-08-28 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-08-30 21:25:56 +0000"
     },
     "done": true
   },
@@ -1547,6 +1661,18 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-08-28 04:31:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/cow": {
+    "criteria": {
+      "has_milk_bucket": "2024-08-30 21:27:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2024-08-30 21:32:43 +0000"
     },
     "done": true
   },
@@ -1652,6 +1778,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2024-08-30 21:24:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/redstone": {
     "criteria": {
       "has_redstone": "2024-08-28 04:47:26 +0000"
@@ -1691,6 +1823,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-08-29 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-08-30 21:24:47 +0000"
     },
     "done": true
   },
@@ -1745,11 +1883,26 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2024-08-30 21:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-08-28 04:47:26 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2024-08-30 21:32:43 +0000",
+      "twilight_oak_log": "2024-08-30 21:24:43 +0000",
+      "twilight_oak_sapling": "2024-08-30 21:28:13 +0000",
+      "canopy_log": "2024-08-30 21:31:13 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/first_grave": {
     "criteria": {
@@ -2057,6 +2210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-08-30 21:26:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/cake": {
     "criteria": {
       "has_egg": "2024-08-28 03:42:51 +0000"
@@ -2078,6 +2237,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-08-28 03:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-08-30 21:26:14 +0000"
     },
     "done": true
   },
@@ -2219,6 +2384,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/firefly_jar": {
+    "criteria": {
+      "has_item": "2024-08-30 21:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-08-29 05:24:18 +0000"
@@ -2291,6 +2462,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2024-08-30 21:32:43 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/copper_platform": {
     "criteria": {
       "has_bars": "2024-08-28 03:47:50 +0000"
@@ -2339,9 +2516,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/firefly_particle_spawner": {
+    "criteria": {
+      "has_jar": "2024-08-30 21:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-08-29 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2024-08-30 21:26:16 +0000"
     },
     "done": true
   },
@@ -2381,6 +2570,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2024-08-30 21:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-08-30 21:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-08-29 05:24:18 +0000"
@@ -2414,6 +2615,12 @@
   "cgm:recipes/cgm/shotgun": {
     "criteria": {
       "has_iron_ingot": "2024-08-30 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2024-08-30 21:32:43 +0000"
     },
     "done": true
   },
@@ -2513,6 +2720,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2024-08-30 21:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-08-30 21:26:14 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials_and_you": {
     "criteria": {
       "has_item": "2024-08-30 21:00:03 +0000"
@@ -2534,6 +2753,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-08-28 03:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-08-30 21:30:01 +0000"
     },
     "done": true
   },
@@ -2627,6 +2852,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2024-08-30 21:32:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-08-28 04:47:26 +0000"
@@ -2657,6 +2888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-08-30 21:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-08-28 04:44:12 +0000"
@@ -2684,6 +2921,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-08-29 05:27:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2024-08-30 21:31:13 +0000"
     },
     "done": true
   },

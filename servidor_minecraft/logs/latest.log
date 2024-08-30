@@ -966,3 +966,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Aug2024 21:25:10.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> creo q esta justo aca alado lo de la serpiente
 [30Aug2024 21:25:28.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> a si del naga
 [30Aug2024 21:25:32.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> ci
+[30Aug2024 21:28:18.452] [Server thread/WARN] [cgm/]: literal{Pinwino}(2abe1453-323e-3268-bba3-171dfed1f1ce) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 79
+[30Aug2024 21:28:35.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pinwino moved too quickly! 8.83661655953722,0.0,-4.783999905940732
+[30Aug2024 21:28:35.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8581ms or 171 ticks behind
+[30Aug2024 21:29:11.941] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@379afee8
+[30Aug2024 21:30:15.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> -40 -1026
+[30Aug2024 21:30:19.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> antes de que pierda el portal
+[30Aug2024 21:35:26.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Bedrock] to Pinwino]
+[30Aug2024 21:35:27.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Stone] to Pinwino]
