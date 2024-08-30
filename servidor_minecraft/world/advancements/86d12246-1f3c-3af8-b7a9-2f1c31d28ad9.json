@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-08-30 21:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-08-28 04:44:12 +0000"
@@ -1035,6 +1041,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-08-30 21:09:59 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2024-08-28 03:42:57 +0000"
@@ -1196,6 +1208,8 @@
       "minecraft:snowy_taiga": "2024-08-28 03:35:28 +0000",
       "minecraft:swamp": "2024-08-29 03:54:32 +0000",
       "minecraft:cold_ocean": "2024-08-29 06:03:11 +0000",
+      "minecraft:lush_caves": "2024-08-30 21:19:57 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-08-30 21:19:43 +0000",
       "minecraft:snowy_beach": "2024-08-29 05:20:29 +0000"
     },
     "done": false
@@ -2082,6 +2096,12 @@
   "travelersbackpack:recipes/travelersbackpack/diamond": {
     "criteria": {
       "has_diamond": "2024-08-28 04:44:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2024-08-30 21:23:15 +0000"
     },
     "done": true
   },

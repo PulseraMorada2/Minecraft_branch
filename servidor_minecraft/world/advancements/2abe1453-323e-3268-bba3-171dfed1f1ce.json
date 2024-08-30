@@ -1321,7 +1321,8 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
-      "rock": "2024-08-30 20:55:29 +0000"
+      "rock": "2024-08-30 20:55:29 +0000",
+      "copper": "2024-08-30 21:07:30 +0000"
     },
     "done": false
   },
@@ -2487,6 +2488,7 @@
   },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
+      "excavator": "2024-08-30 21:08:33 +0000",
       "sledge_hammer": "2024-08-30 20:55:29 +0000",
       "vein_hammer": "2024-08-30 20:54:50 +0000"
     },
