@@ -1,19 +1,7 @@
 [
   {
-    "uuid": "86d12246-1f3c-3af8-b7a9-2f1c31d28ad9",
-    "name": "Rodry_Dra",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "961462fb-03ad-317a-bbde-0142cca180cc",
     "name": "PulseraMorada",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "d0c014e9-258e-3e6c-bcfa-d3313fdecf81",
-    "name": "Lunacram",
     "level": 4,
     "bypassesPlayerLimit": false
   },

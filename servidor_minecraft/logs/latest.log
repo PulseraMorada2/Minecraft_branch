@@ -715,3 +715,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Aug2024 20:42:09.577] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
 [30Aug2024 20:42:09.580] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
 [30Aug2024 20:42:15.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by Rotting Stalker
+[30Aug2024 20:44:00.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> fuck
+[30Aug2024 20:44:06.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> esta aldea no tiene waystone
+[30Aug2024 20:44:10.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Aug2024 20:44:10.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: das<--[HERE]
+[30Aug2024 20:44:13.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> pucha
+[30Aug2024 20:46:37.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Made Rodry_Dra no longer a server operator]
+[30Aug2024 20:46:45.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Made Lunacram no longer a server operator]
+[30Aug2024 20:47:02.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Waystone] to Pinwino]
+[30Aug2024 20:47:33.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[30Aug2024 20:47:39.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> a mira, ahora si me pide xp
+[30Aug2024 20:47:44.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> xd
+[30Aug2024 20:47:44.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[30Aug2024 20:47:46.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> ya se
+[30Aug2024 20:47:47.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> entendi
+[30Aug2024 20:47:56.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> q paso ??
+[30Aug2024 20:48:01.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[30Aug2024 20:48:19.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3166ms or 63 ticks behind
+[30Aug2024 20:48:21.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> No se porque
+[30Aug2024 20:48:31.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> Pero los waystone que encontre en la mineshaft, no piden xp
+[30Aug2024 20:48:42.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> los de las aldeas si
+[30Aug2024 20:48:45.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> a
+[30Aug2024 20:48:59.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[30Aug2024 20:49:14.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> pi pi pi, no hay martillos para romper 3x3x1
+[30Aug2024 20:49:19.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> si hay
+[30Aug2024 20:49:23.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> si ????
+[30Aug2024 20:49:29.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> si, pero se hacen con el mod tinkers
+[30Aug2024 20:49:34.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> a
+[30Aug2024 20:49:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> estaba buscando un mineral para hacerlo, porque se necesita un yunque
+[30Aug2024 20:50:39.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3077ms or 61 ticks behind
+[30Aug2024 20:51:30.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Tinker's Anvil] to Pinwino]
+[30Aug2024 20:51:31.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino has reached the goal [Advanced Tool Making]
+[30Aug2024 20:53:02.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> a
+[30Aug2024 20:53:21.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> y puedes agarrar los cofres y las mesas de crafteo apretando shift y click derecho
+[30Aug2024 20:53:40.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/26370, l='ServerLevel[world]', x=-16.70, y=76.00, z=-1003.48] died, message: 'Farmer was slain by Zombie'
+[30Aug2024 20:53:49.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> ci
