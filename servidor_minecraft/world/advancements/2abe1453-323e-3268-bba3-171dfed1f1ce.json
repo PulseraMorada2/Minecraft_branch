@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-08-29 03:25:46 +0000"
@@ -173,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-08-29 03:30:36 +0000"
@@ -230,6 +242,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/channel": {
     "criteria": {
       "has_item": "2024-08-29 04:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
     },
     "done": true
   },
@@ -401,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-08-29 03:36:38 +0000"
@@ -557,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-08-30 20:04:58 +0000"
@@ -658,6 +688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-30 21:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2024-08-29 04:43:17 +0000"
@@ -745,6 +781,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-08-29 04:16:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-30 21:41:37 +0000"
     },
     "done": true
   },
@@ -1024,6 +1066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-08-29 03:33:08 +0000"
@@ -1129,6 +1177,12 @@
   "astikorcarts:recipes/animal_cart": {
     "criteria": {
       "has_wheel": "2024-08-29 03:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
     },
     "done": true
   },
@@ -1247,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/light_grip": {
     "criteria": {
       "has_gray_wool": "2024-08-29 04:16:00 +0000"
@@ -1298,6 +1358,12 @@
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2024-08-30 20:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-30 21:41:37 +0000"
     },
     "done": true
   },
@@ -1494,6 +1560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-08-29 03:36:38 +0000"
@@ -1503,6 +1575,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-08-29 04:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
     },
     "done": true
   },
@@ -2114,6 +2192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-08-30 19:55:48 +0000"
@@ -2201,6 +2285,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-08-29 04:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
     },
     "done": true
   },
@@ -2518,6 +2608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/pattern": {
     "criteria": {
       "has_item": "2024-08-29 03:33:08 +0000"
@@ -2563,6 +2659,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-08-29 05:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-08-30 21:35:28 +0000"
     },
     "done": true
   },
