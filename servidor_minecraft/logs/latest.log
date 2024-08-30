@@ -1011,3 +1011,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Aug2024 21:46:46.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> no me acuerdo haber metido algo asi xd
 [30Aug2024 21:46:51.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> te juro
 [30Aug2024 21:46:56.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> que tengo un corazo naranja
+[30Aug2024 21:47:08.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> no se si es por que tengo 22 corazones ahora
+[30Aug2024 21:47:22.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> seguramente
+[30Aug2024 21:47:24.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> hay un mod que comias como corazones asi y te aumentaba la vida
+[30Aug2024 21:47:29.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> Sip
+[30Aug2024 21:47:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> Pero no lo meti
+[30Aug2024 21:47:34.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> aajajajaj
+[30Aug2024 21:47:35.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> se llama scaling healt
+[30Aug2024 21:47:37.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> entonces ni idea
+[30Aug2024 21:49:01.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[30Aug2024 21:49:01.028] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
+[30Aug2024 21:49:01.040] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
+[30Aug2024 21:49:07.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by Skinwalker Overhaul
+[30Aug2024 21:49:12.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
+[30Aug2024 21:49:15.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> me aparece en la casa que hueva
+[30Aug2024 21:51:41.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[30Aug2024 21:51:41.120] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
+[30Aug2024 21:51:41.130] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
+[30Aug2024 21:51:47.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by Skinwalker Overhaul
+[30Aug2024 21:51:50.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> a no memes
