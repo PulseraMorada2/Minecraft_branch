@@ -477,3 +477,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Aug2024 19:23:06.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rodry_Dra (86d12246-1f3c-3af8-b7a9-2f1c31d28ad9) successfully connected to voice chat
 [30Aug2024 19:23:38.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-29, y=69, z=-1047}
 [30Aug2024 19:23:39.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-29, y=69, z=-1048}
+[30Aug2024 19:26:00.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Set Rodry_Dra's game mode to Survival Mode]
+[30Aug2024 19:26:03.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Set Rodry_Dra's game mode to Creative Mode]
+[30Aug2024 19:27:01.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[30Aug2024 19:27:01.467] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
+[30Aug2024 19:27:01.513] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
+[30Aug2024 19:27:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by entity.kim_dweller.kim_dweller
+[30Aug2024 19:27:13.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[30Aug2024 19:30:03.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra has made the advancement [Free Willy]
+[30Aug2024 19:30:03.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra has made the advancement [Best Friends Forever]
+[30Aug2024 19:33:05.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1562, l='ServerLevel[world]', x=31.30, y=72.00, z=-1027.70] died, message: 'Villager was slain by Zombie'
+[30Aug2024 19:33:19.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra has made the advancement [Acquire Hardware]
+[30Aug2024 19:33:25.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Set Rodry_Dra's game mode to Survival Mode]
+[30Aug2024 19:33:41.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[30Aug2024 19:33:41.159] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
+[30Aug2024 19:33:41.168] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
+[30Aug2024 19:33:47.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by Skinwalker Overhaul
+[30Aug2024 19:34:12.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodry_Dra lost connection: Disconnected
+[30Aug2024 19:34:12.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra left the game
+[30Aug2024 19:34:12.665] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Rodry_Dra
+[30Aug2024 19:39:06.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
+[30Aug2024 19:39:14.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Basic Bullet] to Pinwino]
+[30Aug2024 19:39:16.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
+[30Aug2024 19:39:18.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
