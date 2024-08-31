@@ -2408,6 +2408,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/travelers_gear": {
+    "criteria": {
+      "crafted_helmet": "2024-08-31 02:16:43 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-08-30 23:58:39 +0000"

@@ -540,3 +540,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Aug2024 02:00:50.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2abe1453-323e-3268-bba3-171dfed1f1ce
 [31Aug2024 02:00:51.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2abe1453-323e-3268-bba3-171dfed1f1ce
 [31Aug2024 02:00:51.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pinwino (2abe1453-323e-3268-bba3-171dfed1f1ce) successfully connected to voice chat
+[31Aug2024 02:09:55.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Onion] to Pinwino]
+[31Aug2024 02:10:50.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[31Aug2024 02:13:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31Aug2024 02:13:08.849] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
+[31Aug2024 02:13:08.855] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
+[31Aug2024 02:14:08.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by entity.mimicer.mimicer
+[31Aug2024 02:16:07.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31Aug2024 02:16:07.799] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
+[31Aug2024 02:16:07.805] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
+[31Aug2024 02:16:14.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by entity.mimicer.mimicer
+[31Aug2024 02:16:42.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Traveler's Goggles] to Pinwino]
+[31Aug2024 02:16:49.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Pig Iron Plate Boots] to Pinwino]
+[31Aug2024 02:19:16.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Plate Chestplate] to Pinwino]
+[31Aug2024 02:19:26.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Boot Plating] to Pinwino]
+[31Aug2024 02:19:32.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Plate Helmet] to Pinwino]
+[31Aug2024 02:19:33.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Plate Leggings] to Pinwino]
+[31Aug2024 02:19:35.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Plate Boots] to Pinwino]
+[31Aug2024 02:19:36.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino has reached the goal [Plate Armor]
+[31Aug2024 02:19:37.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Plate Shield] to Pinwino]
+[31Aug2024 02:19:56.905] [Server thread/WARN] [cgm/]: literal{Pinwino}(2abe1453-323e-3268-bba3-171dfed1f1ce) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 85
