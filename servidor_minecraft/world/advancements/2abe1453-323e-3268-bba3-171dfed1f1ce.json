@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2024-08-31 02:25:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-08-29 03:25:46 +0000"
@@ -755,6 +761,15 @@
     },
     "done": true
   },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_leggings": "2024-08-31 02:19:34 +0000",
+      "crafted_boots": "2024-08-31 02:19:36 +0000",
+      "crafted_helmet": "2024-08-31 02:19:32 +0000",
+      "crafted_chestplate": "2024-08-31 02:19:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-08-29 04:12:47 +0000"
@@ -1240,6 +1255,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_block_from_ingots": {
+    "criteria": {
+      "has_item": "2024-08-31 02:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-08-29 03:41:12 +0000"
@@ -1565,6 +1586,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2024-08-31 02:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-08-29 03:32:54 +0000"
@@ -1723,8 +1750,10 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "cobalt": "2024-08-31 02:25:10 +0000",
       "rock": "2024-08-30 20:55:29 +0000",
-      "copper": "2024-08-30 21:07:30 +0000"
+      "copper": "2024-08-30 21:07:30 +0000",
+      "wood": "2024-08-31 02:19:38 +0000"
     },
     "done": false
   },
@@ -1833,6 +1862,12 @@
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2024-08-31 00:19:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2024-08-31 02:25:12 +0000"
     },
     "done": true
   },
@@ -2726,6 +2761,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/cobalt_platform": {
+    "criteria": {
+      "has_bars": "2024-08-31 02:25:32 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/rifle": {
     "criteria": {
       "has_iron_ingot": "2024-08-29 03:36:38 +0000"
@@ -2819,6 +2860,12 @@
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-08-31 00:19:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-08-31 02:25:31 +0000"
     },
     "done": true
   },

@@ -1,28 +1,27 @@
-[31Aug2024 01:16:58.594] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
-[31Aug2024 01:16:58.600] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
-[31Aug2024 01:17:01.396] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSI-Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[31Aug2024 01:17:02.196] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
-[31Aug2024 01:17:02.198] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[31Aug2024 01:17:02.199] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[31Aug2024 01:17:02.219] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[31Aug2024 01:17:02.698] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[31Aug2024 01:17:02.704] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[31Aug2024 01:17:07.974] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
-[31Aug2024 01:17:08.012] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[31Aug2024 01:17:08.208] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[31Aug2024 01:17:08.730] [main/INFO] [Canary/]: Loaded configuration file for Canary: 104 options available, 0 override(s) found
-[31Aug2024 01:17:08.754] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[31Aug2024 01:17:10.053] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
-[31Aug2024 01:17:10.055] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.TomatoVineBlock was not found supplementaries.mixins.json:CompatFarmersDelightMixin
-[31Aug2024 01:17:11.929] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-rc.5).
-[31Aug2024 01:17:14.602] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity::handler$zfc000$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[31Aug2024 01:17:25.048] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[31Aug2024 01:17:28.343] [main/WARN] [mixin/]: Error loading class: vazkii/quark/content/tools/item/PathfindersQuillItem (java.lang.ClassNotFoundException: vazkii.quark.content.tools.item.PathfindersQuillItem)
-[31Aug2024 01:17:28.844] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
-[31Aug2024 01:17:29.593] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[31Aug2024 01:17:29.611] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[31Aug2024 01:17:29.639] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@416d56f2 on thread Thread[#30,modloading-worker-0,5,main]
-[31Aug2024 01:17:29.647] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[31Aug2024 03:13:31.494] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[31Aug2024 03:13:31.506] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
+[31Aug2024 03:13:34.658] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSI-Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[31Aug2024 03:13:35.489] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[31Aug2024 03:13:35.514] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[31Aug2024 03:13:35.517] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[31Aug2024 03:13:35.519] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[31Aug2024 03:13:35.923] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[31Aug2024 03:13:35.925] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[31Aug2024 03:13:41.159] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[31Aug2024 03:13:41.195] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[31Aug2024 03:13:41.396] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[31Aug2024 03:13:41.846] [main/INFO] [Canary/]: Loaded configuration file for Canary: 104 options available, 0 override(s) found
+[31Aug2024 03:13:41.862] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[31Aug2024 03:13:43.158] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
+[31Aug2024 03:13:43.162] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.TomatoVineBlock was not found supplementaries.mixins.json:CompatFarmersDelightMixin
+[31Aug2024 03:13:44.960] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-rc.5).
+[31Aug2024 03:13:47.173] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity::handler$zfc000$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[31Aug2024 03:13:57.472] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[31Aug2024 03:14:00.689] [main/WARN] [mixin/]: Error loading class: vazkii/quark/content/tools/item/PathfindersQuillItem (java.lang.ClassNotFoundException: vazkii.quark.content.tools.item.PathfindersQuillItem)
+[31Aug2024 03:14:01.260] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
+[31Aug2024 03:14:02.127] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[31Aug2024 03:14:02.135] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@46e3559f on thread Thread[#31,modloading-worker-0,5,main]
+[31Aug2024 03:14:02.138] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -66,25 +65,26 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[31Aug2024 01:17:29.650] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[31Aug2024 01:17:30.072] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[31Aug2024 01:17:30.299] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
-[31Aug2024 01:17:30.300] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
-[31Aug2024 01:17:32.249] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[31Aug2024 01:17:32.255] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[31Aug2024 01:17:32.266] [modloading-worker-0/WARN] [net.blay09.mods.balm.forge.config.ForgeBalmConfig/]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
-[31Aug2024 01:17:32.280] [modloading-worker-0/WARN] [net.blay09.mods.balm.forge.config.ForgeBalmConfig/]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
-[31Aug2024 01:17:32.421] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
-[31Aug2024 01:17:34.424] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
-[31Aug2024 01:17:34.749] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[31Aug2024 01:17:35.602] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[31Aug2024 01:17:35.609] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
-[31Aug2024 01:17:43.747] [main/INFO] [moonlight/]: Initialized block sets in 24ms
-[31Aug2024 01:17:47.009] [Thread-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: 'void com.corosus.modconfig.ConfigMod.onReload(net.minecraftforge.fml.event.config.ModConfigEvent$Reloading)'
+[31Aug2024 03:14:02.153] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[31Aug2024 03:14:02.159] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[31Aug2024 03:14:02.521] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[31Aug2024 03:14:02.727] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
+[31Aug2024 03:14:02.728] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
+[31Aug2024 03:14:05.189] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[31Aug2024 03:14:05.194] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[31Aug2024 03:14:05.215] [modloading-worker-0/WARN] [net.blay09.mods.balm.forge.config.ForgeBalmConfig/]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
+[31Aug2024 03:14:05.216] [modloading-worker-0/WARN] [net.blay09.mods.balm.forge.config.ForgeBalmConfig/]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
+[31Aug2024 03:14:05.420] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
+[31Aug2024 03:14:06.891] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[31Aug2024 03:14:07.140] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[31Aug2024 03:14:07.803] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[31Aug2024 03:14:07.810] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[31Aug2024 03:14:16.144] [main/INFO] [moonlight/]: Initialized block sets in 20ms
+[31Aug2024 03:14:19.090] [Thread-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: 'void com.corosus.modconfig.ConfigMod.onReload(net.minecraftforge.fml.event.config.ModConfigEvent$Reloading)'
 	Index: 1
 	Listeners:
 		0: NORMAL
-		1: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007e7be4ae15e8@1b07f24e
+		1: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007fdb88a8e758@1b07f24e
 java.lang.NoSuchMethodError: 'void com.corosus.modconfig.ConfigMod.onReload(net.minecraftforge.fml.event.config.ModConfigEvent$Reloading)'
 	at TRANSFORMER/zombieawareness@1.19.2-1.12.3/com.corosus.zombieawareness.ZombieAwareness.onReload(ZombieAwareness.java:69)
 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260)
@@ -99,16 +99,16 @@ java.lang.NoSuchMethodError: 'void com.corosus.modconfig.ConfigMod.onReload(net.
 	at LAYER PLUGIN/fmlcore@1.19.2-43.3.0/net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:147)
 	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:181)
 
-[31Aug2024 01:17:47.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cgm/update.json
-[31Aug2024 01:17:47.319] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[31Aug2024 01:17:47.502] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[31Aug2024 01:17:47.520] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[31Aug2024 01:17:47.520] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[31Aug2024 01:17:47.520] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[31Aug2024 01:17:47.528] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[31Aug2024 01:17:47.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.7 Target: null
-[31Aug2024 01:17:47.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[31Aug2024 01:17:47.624] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[31Aug2024 03:14:19.398] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[31Aug2024 03:14:19.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cgm/update.json
+[31Aug2024 03:14:19.546] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[31Aug2024 03:14:19.569] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[31Aug2024 03:14:19.584] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[31Aug2024 03:14:19.585] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[31Aug2024 03:14:19.586] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[31Aug2024 03:14:19.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.7 Target: null
+[31Aug2024 03:14:19.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[31Aug2024 03:14:19.750] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -123,26 +123,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[31Aug2024 01:17:47.627] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
-[31Aug2024 01:17:47.754] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
-[31Aug2024 01:17:47.754] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
-[31Aug2024 01:17:47.755] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
-[31Aug2024 01:17:47.803] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[31Aug2024 01:17:47.804] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[31Aug2024 01:17:47.804] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[31Aug2024 01:17:47.805] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[31Aug2024 01:17:47.833] [main/INFO] [supplementaries/]: Finished mod setup in: [0, 0, 1, 0, 0, 0, 0, 0, 1] ms
-[31Aug2024 01:17:47.989] [main/INFO] [moonlight/]: Initialized color sets in 64ms
-[31Aug2024 01:17:48.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA_OUTDATED Current: 9.0.0+11 Target: 9.0.0+14
-[31Aug2024 01:17:48.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[31Aug2024 01:17:48.027] [main/INFO] [moonlight/]: Initialized color sets in 37ms
-[31Aug2024 01:17:48.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
-[31Aug2024 01:17:48.060] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[31Aug2024 01:17:48.179] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
-[31Aug2024 01:17:48.213] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[31Aug2024 01:17:48.215] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[31Aug2024 01:17:48.230] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[31Aug2024 01:17:48.235] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[31Aug2024 03:14:19.756] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
+[31Aug2024 03:14:19.870] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
+[31Aug2024 03:14:19.871] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
+[31Aug2024 03:14:19.872] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
+[31Aug2024 03:14:19.933] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[31Aug2024 03:14:19.933] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[31Aug2024 03:14:19.934] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[31Aug2024 03:14:19.935] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[31Aug2024 03:14:19.963] [main/INFO] [supplementaries/]: Finished mod setup in: [0, 0, 1, 0, 0, 0, 0, 0, 1] ms
+[31Aug2024 03:14:20.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA_OUTDATED Current: 9.0.0+11 Target: 9.0.0+14
+[31Aug2024 03:14:20.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[31Aug2024 03:14:20.165] [main/INFO] [moonlight/]: Initialized color sets in 102ms
+[31Aug2024 03:14:20.204] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
+[31Aug2024 03:14:20.205] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[31Aug2024 03:14:20.236] [main/INFO] [moonlight/]: Initialized color sets in 70ms
+[31Aug2024 03:14:20.336] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -157,11 +153,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[31Aug2024 01:17:48.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[31Aug2024 01:17:48.250] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[31Aug2024 01:17:48.260] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
-[31Aug2024 01:17:48.262] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[31Aug2024 01:17:48.270] [modloading-worker-0/INFO] [de.mennomax.astikorcarts.AstikorCarts/]: Automatic pull animal configuration:
+[31Aug2024 03:14:20.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[31Aug2024 03:14:20.383] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
+[31Aug2024 03:14:20.407] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[31Aug2024 03:14:20.411] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[31Aug2024 03:14:20.432] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[31Aug2024 03:14:20.443] [modloading-worker-0/INFO] [de.mennomax.astikorcarts.AstikorCarts/]: Automatic pull animal configuration:
 pull_animals = [
     "minecraft:donkey",
     "minecraft:horse",
@@ -172,9 +169,12 @@ pull_animals = [
     "iceandfire:hippocampus",
     "iceandfire:dread_horse"
   ]
-[31Aug2024 01:17:48.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.3.0 Target: 43.4.0
-[31Aug2024 01:17:48.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[31Aug2024 01:17:48.494] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[31Aug2024 03:14:20.445] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[31Aug2024 03:14:20.448] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[31Aug2024 03:14:20.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.3.0 Target: 43.4.0
+[31Aug2024 03:14:20.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[31Aug2024 03:14:20.456] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[31Aug2024 03:14:20.519] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -189,20 +189,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[31Aug2024 01:17:48.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
-[31Aug2024 01:17:48.505] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.19.2-2.4.20 Target: null
-[31Aug2024 01:17:48.505] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
-[31Aug2024 01:17:48.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[31Aug2024 01:17:48.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[31Aug2024 01:17:49.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.19.2-2.5.20 Target: 1.19.2-2.5.21
-[31Aug2024 01:17:49.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcintegrations] Starting version check at https://raw.githubusercontent.com/wendall911/TCIntegrations/1.18.2/files/updates.json
-[31Aug2024 01:17:49.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcintegrations] Found status: BETA Current: 1.19.2-2.0.21.7 Target: null
-[31Aug2024 01:17:49.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[31Aug2024 01:17:49.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: UP_TO_DATE Current: 1.19.2-2.3.7 Target: null
-[31Aug2024 01:17:49.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[31Aug2024 01:17:49.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
-[31Aug2024 01:17:49.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/blob/mc1.19.2/architectury_forge_loom/updates.json
-[31Aug2024 01:17:49.485] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[31Aug2024 03:14:20.520] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
+[31Aug2024 03:14:20.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.19.2-2.4.20 Target: null
+[31Aug2024 03:14:20.531] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
+[31Aug2024 03:14:20.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[31Aug2024 03:14:20.544] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[31Aug2024 03:14:21.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.19.2-2.5.20 Target: 1.19.2-2.5.21
+[31Aug2024 03:14:21.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcintegrations] Starting version check at https://raw.githubusercontent.com/wendall911/TCIntegrations/1.18.2/files/updates.json
+[31Aug2024 03:14:21.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcintegrations] Found status: BETA Current: 1.19.2-2.0.21.7 Target: null
+[31Aug2024 03:14:21.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[31Aug2024 03:14:21.136] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: UP_TO_DATE Current: 1.19.2-2.3.7 Target: null
+[31Aug2024 03:14:21.136] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[31Aug2024 03:14:21.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[31Aug2024 03:14:21.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/blob/mc1.19.2/architectury_forge_loom/updates.json
+[31Aug2024 03:14:21.441] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -217,10 +217,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[31Aug2024 01:17:49.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[31Aug2024 01:17:49.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.3.0 Target: null
-[31Aug2024 01:17:49.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[31Aug2024 01:17:49.546] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[31Aug2024 03:14:21.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[31Aug2024 03:14:21.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.3.0 Target: null
+[31Aug2024 03:14:21.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[31Aug2024 03:14:21.478] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -235,8 +235,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[31Aug2024 01:17:49.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[31Aug2024 01:17:49.558] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[31Aug2024 03:14:21.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[31Aug2024 03:14:21.489] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -251,122 +251,122 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[31Aug2024 01:17:53.257] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[31Aug2024 01:17:57.268] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23223!/assets/.mcassetsroot' uses unexpected schema
-[31Aug2024 01:17:57.268] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23223!/data/.mcassetsroot' uses unexpected schema
-[31Aug2024 01:17:57.317] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode::handler$zfg000$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[31Aug2024 01:17:57.518] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 111 ms
-[31Aug2024 01:18:04.608] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
-[31Aug2024 01:18:05.181] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [ars_nouveau:source_gem (from TCIntegrations-1.19.2-2.0.21.7.jar)] as it is missing following references: ars_nouveau:source_gem (from TCIntegrations-1.19.2-2.0.21.7.jar)
-[31Aug2024 01:18:05.201] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [ars_nouveau:source_gem_block (from TCIntegrations-1.19.2-2.0.21.7.jar)] as it is missing following references: ars_nouveau:source_gem_block (from TCIntegrations-1.19.2-2.0.21.7.jar)
-[31Aug2024 01:18:08.028] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[31Aug2024 01:18:08.053] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[31Aug2024 01:18:08.055] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[31Aug2024 01:18:08.064] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[31Aug2024 01:18:08.116] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[31Aug2024 01:18:08.135] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[31Aug2024 01:18:08.183] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[31Aug2024 01:18:08.198] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[31Aug2024 01:18:08.244] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[31Aug2024 01:18:08.245] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[31Aug2024 01:18:08.253] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[31Aug2024 01:18:08.264] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
-[31Aug2024 01:18:08.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcoffeebeancrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamspiceleafcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamjutecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambokchoycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambroccolicrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamchiacrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamrhubarbcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamraspberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamguaranacrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamleekcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.884] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamokracrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.884] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamaloecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.885] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambarrelcactuscrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.885] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcandleberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.885] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamjicamacrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.886] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamflaxcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.886] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamsoybeancrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.886] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamwolfberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.886] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamryecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.887] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamonioncrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.887] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamgingercrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.887] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pammulberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.888] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcalabashcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.888] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pammilletcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.889] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamkiwicrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.889] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamlotuscrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.889] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamsorghumcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.890] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pammustardseedscrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.890] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcorncrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.890] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamelderberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.891] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambarleycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.891] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcottoncrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.892] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamyuccacrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.892] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamtomatillocrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.892] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamamaranthcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.893] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamalfalfacrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.893] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamkenafcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.894] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcauliflowercrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.894] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamlettucecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.896] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambellpeppercrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.896] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamsweetpotatocrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.896] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamsesameseedscrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.897] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamchickpeacrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.897] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamwhitemushroomcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.897] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcelerycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.898] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamhuckleberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.898] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamartichokecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.898] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pampeascrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.898] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamlentilcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.899] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambeancrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.899] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamnopalescrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.899] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pampeanutcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.900] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamasparaguscrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.900] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamradishcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.900] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamparsnipcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.901] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamscallioncrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.901] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcloudberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.901] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamsisalcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.902] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamzucchinicrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.903] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcranberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.903] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamjuniperberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.904] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamoatscrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.904] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamgreengrapecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.905] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamgrapecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.905] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamkohlrabicrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.905] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcucumbercrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.906] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcassavacrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.906] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamtealeafcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.906] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamnettlescrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.907] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcanolacrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.907] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamwaterchestnutcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.907] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pameggplantcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.908] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamblueberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.908] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcabbagecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.909] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamtarocrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.909] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamgarliccrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.910] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamrutabagacrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.910] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcactusfruitcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.911] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamblackberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.911] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamchilipeppercrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.911] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamarrowrootcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.912] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambrusselsproutcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.912] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamagavecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.912] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamquinoacrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.913] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamspinachcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.913] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamricecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.913] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamkalecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.914] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamstrawberrycrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.914] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamwintersquashcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.914] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamturnipcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.915] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pampineapplecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.915] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamtomatocrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.915] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcantaloupecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.916] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamtrufflecrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.916] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcattailcrop}.pools[0].entries[0]: Unreachable entry!
-[31Aug2024 01:18:08.924] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[31Aug2024 03:14:24.773] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[31Aug2024 03:14:28.328] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23223!/assets/.mcassetsroot' uses unexpected schema
+[31Aug2024 03:14:28.329] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSI-Server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23223!/data/.mcassetsroot' uses unexpected schema
+[31Aug2024 03:14:28.380] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode::handler$zfg000$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[31Aug2024 03:14:28.671] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 215 ms
+[31Aug2024 03:14:35.674] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
+[31Aug2024 03:14:36.309] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [ars_nouveau:source_gem (from TCIntegrations-1.19.2-2.0.21.7.jar)] as it is missing following references: ars_nouveau:source_gem (from TCIntegrations-1.19.2-2.0.21.7.jar)
+[31Aug2024 03:14:36.329] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [ars_nouveau:source_gem_block (from TCIntegrations-1.19.2-2.0.21.7.jar)] as it is missing following references: ars_nouveau:source_gem_block (from TCIntegrations-1.19.2-2.0.21.7.jar)
+[31Aug2024 03:14:38.469] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[31Aug2024 03:14:38.527] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[31Aug2024 03:14:38.528] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[31Aug2024 03:14:38.545] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[31Aug2024 03:14:38.641] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[31Aug2024 03:14:38.686] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[31Aug2024 03:14:38.730] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[31Aug2024 03:14:38.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[31Aug2024 03:14:38.772] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[31Aug2024 03:14:38.775] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[31Aug2024 03:14:38.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[31Aug2024 03:14:38.796] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
+[31Aug2024 03:14:39.839] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcoffeebeancrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.840] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamspiceleafcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.840] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamjutecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.840] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambokchoycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.841] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambroccolicrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.841] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamchiacrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.842] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamrhubarbcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.842] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamraspberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.842] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamguaranacrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.842] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamleekcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.844] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamokracrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.844] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamaloecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.845] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambarrelcactuscrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.845] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcandleberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.846] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamjicamacrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.847] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamflaxcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.847] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamsoybeancrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.847] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamwolfberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.848] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamryecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.848] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamonioncrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.848] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamgingercrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.848] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pammulberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.849] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcalabashcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.849] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pammilletcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.849] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamkiwicrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.850] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamlotuscrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.850] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamsorghumcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.850] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pammustardseedscrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.851] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcorncrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.851] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamelderberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.853] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambarleycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.853] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcottoncrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.855] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamyuccacrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.856] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamtomatillocrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.857] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamamaranthcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.857] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamalfalfacrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.859] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamkenafcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.859] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcauliflowercrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.860] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamlettucecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.864] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambellpeppercrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.864] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamsweetpotatocrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.865] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamsesameseedscrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.865] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamchickpeacrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.865] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamwhitemushroomcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.865] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcelerycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.866] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamhuckleberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.866] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamartichokecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.867] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pampeascrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.867] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamlentilcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.867] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambeancrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.868] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamnopalescrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.868] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pampeanutcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.872] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamasparaguscrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.872] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamradishcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.873] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamparsnipcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.873] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamscallioncrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.873] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcloudberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.874] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamsisalcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.874] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamzucchinicrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.875] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcranberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamjuniperberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamoatscrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamgreengrapecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamgrapecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamkohlrabicrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcucumbercrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcassavacrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamtealeafcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamnettlescrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcanolacrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamwaterchestnutcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pameggplantcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamblueberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcabbagecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamtarocrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamgarliccrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamrutabagacrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.885] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcactusfruitcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.885] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamblackberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.886] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamchilipeppercrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.886] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamarrowrootcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.886] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pambrusselsproutcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.887] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamagavecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.887] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamquinoacrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.887] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamspinachcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.887] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamricecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.888] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamkalecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.888] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamstrawberrycrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.888] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamwintersquashcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.889] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamturnipcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.889] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pampineapplecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.889] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamtomatocrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.889] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcantaloupecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.890] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamtrufflecrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.890] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {pamhc2crops:blocks/pamcattailcrop}.pools[0].entries[0]: Unreachable entry!
+[31Aug2024 03:14:39.906] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -382,181 +382,111 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23223!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[31Aug2024 01:18:09.233] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3301 advancements
-[31Aug2024 01:18:09.258] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id pamhc2crops:fern_drops - error: Not a JSON object: null
-[31Aug2024 01:18:09.259] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id pamhc2crops:grass_drops - error: Not a JSON object: null
-[31Aug2024 01:18:09.260] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id pamhc2crops:tall_grass_drops - error: Not a JSON object: null
-[31Aug2024 01:18:09.261] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[31Aug2024 01:18:09.270] [main/INFO] [supplementaries/]: Loaded  8 flute songs
-[31Aug2024 01:18:09.383] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 139 dynamic modifiers and 0 modifier redirects in 85.04291 ms
-[31Aug2024 01:18:09.390] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 38 modifier tags for 135 modifiers in 6.952186 ms
-[31Aug2024 01:18:09.391] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 49 enchantment to modifier mappings in 1.194197 ms
-[31Aug2024 01:18:09.396] [main/INFO] [tconstruct/]: Loaded 49 spilling fluids in 4.463254 ms
-[31Aug2024 01:18:09.400] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 24 dynamic modifiers in 3.476443 ms
-[31Aug2024 01:18:09.403] [main/INFO] [Diet/]: Loaded 5 diet groups
-[31Aug2024 01:18:09.412] [main/INFO] [Diet/]: Loaded 1 diet suites
-[31Aug2024 01:18:09.427] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 70 materials in 14.262058 ms
-[31Aug2024 01:18:09.429] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 19 materials in 1.609261 ms
-[31Aug2024 01:18:09.448] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 615 stats loaded for 91 materials in 18.990936 ms
-[31Aug2024 01:18:09.480] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 298 traits loaded for 91 materials in 31.664892 ms
-[31Aug2024 01:18:09.497] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 36 tool definitions in 16.098824 ms
-[31Aug2024 01:18:09.505] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 21 station slot layouts in 7.146447 ms
-[31Aug2024 01:18:09.514] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_savanna
-[31Aug2024 01:18:12.502] [main/INFO] [supplementaries/]: Finished additional setup in 94 ms
-[31Aug2024 01:18:12.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[31Aug2024 01:18:12.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[31Aug2024 01:18:12.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[31Aug2024 01:18:12.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[31Aug2024 01:18:13.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[31Aug2024 01:18:13.165] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[31Aug2024 01:18:13.343] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[31Aug2024 01:18:13.344] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[31Aug2024 01:18:13.345] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[31Aug2024 01:18:13.345] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[31Aug2024 01:18:13.643] [Server thread/INFO] [configured/]: Loading server configs...
-[31Aug2024 01:18:13.697] [Server thread/INFO] [Framework/]: Loading server configs...
-[31Aug2024 01:18:13.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[31Aug2024 01:18:24.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[31Aug2024 01:18:30.663] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.665] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.697] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.718] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.721] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.755] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.777] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.801] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.809] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.817] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.823] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.827] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.833] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:30.900] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:31.413] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:31.895] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:32.964] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:32.973] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:33.387] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:33.890] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:34.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:34.886] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:35.393] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Aug2024 01:18:36.303] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[31Aug2024 01:18:36.413] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[31Aug2024 01:18:37.378] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12993 ms
-[31Aug2024 01:18:37.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.005s)! For help, type "help"
-[31Aug2024 01:18:37.511] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[31Aug2024 01:18:37.523] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
-[31Aug2024 01:18:37.523] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
-[31Aug2024 01:18:37.533] [Server thread/INFO] [Diet/]: Generating diet values...
-[31Aug2024 01:18:37.537] [Server thread/INFO] [Diet/]: Finding ungrouped food items...
-[31Aug2024 01:18:37.568] [Server thread/INFO] [Diet/]: Found 1112 ungrouped food items
-[31Aug2024 01:18:37.568] [Server thread/INFO] [Diet/]: Building item-to-recipes map...
-[31Aug2024 01:18:37.606] [Server thread/INFO] [Diet/]: Found 4023 valid items with recipes
-[31Aug2024 01:18:37.615] [Server thread/INFO] [Diet/]: Processing items...
-[31Aug2024 01:18:37.736] [Server thread/INFO] [Diet/]: Processed 1447 items
-[31Aug2024 01:18:37.744] [Server thread/INFO] [Diet/]: Generating diet values took 206.6 ms
-[31Aug2024 01:18:37.744] [Server thread/INFO] [net.stardustlabs.nullscape.Nullscape/]: Thanks for choosing Nullscape!
-[31Aug2024 01:18:37.746] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[31Aug2024 01:18:37.747] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[31Aug2024 01:18:37.765] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[31Aug2024 01:18:37.819] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[31Aug2024 01:19:10.694] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[31Aug2024 01:19:10.806] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33fb5e5d
-[31Aug2024 01:19:10.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodry_Dra[/192.168.191.220:64769] logged in with entity id 586 at (-28.785875609313972, 48.0, -1047.7483947937212)
-[31Aug2024 01:19:11.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra joined the game
-[31Aug2024 01:19:11.169] [Server thread/INFO] [Jade/]: Syncing config to Rodry_Dra (86d12246-1f3c-3af8-b7a9-2f1c31d28ad9)
-[31Aug2024 01:19:19.003] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Rodry_Dra (18)
-[31Aug2024 01:19:19.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Rodry_Dra
-[31Aug2024 01:19:19.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8224ms or 164 ticks behind
-[31Aug2024 01:19:20.894] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Fox['Fox'/716, l='ServerLevel[world]', x=51.59, y=71.00, z=-957.17]
-[31Aug2024 01:19:20.895] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Fox['Fox'/717, l='ServerLevel[world]', x=53.50, y=71.00, z=-953.21]
-[31Aug2024 01:19:21.229] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/742, l='ServerLevel[world]', x=7.54, y=72.00, z=-941.56]
-[31Aug2024 01:19:22.156] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/788, l='ServerLevel[world]', x=96.36, y=73.00, z=-996.60]
-[31Aug2024 01:19:26.589] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/850, l='ServerLevel[world]', x=129.20, y=96.00, z=-871.04]
-[31Aug2024 01:19:41.338] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29b9a7a4
-[31Aug2024 01:19:41.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pinwino[/192.168.191.196:51129] logged in with entity id 947 at (1889.6270053028752, 68.0, -1450.9036929125298)
-[31Aug2024 01:19:41.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino joined the game
-[31Aug2024 01:19:41.486] [Server thread/INFO] [Jade/]: Syncing config to Pinwino (2abe1453-323e-3268-bba3-171dfed1f1ce)
-[31Aug2024 01:19:46.347] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pinwino (18)
-[31Aug2024 01:19:46.353] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pinwino
-[31Aug2024 01:19:46.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5612ms or 112 ticks behind
-[31Aug2024 01:19:46.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/991, l='ServerLevel[world]', x=1938.45, y=80.42, z=-1470.22]
-[31Aug2024 01:19:48.418] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/1143, l='ServerLevel[world]', x=1936.06, y=66.00, z=-1339.95]
-[31Aug2024 01:19:51.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2abe1453-323e-3268-bba3-171dfed1f1ce
-[31Aug2024 01:19:52.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2abe1453-323e-3268-bba3-171dfed1f1ce
-[31Aug2024 01:19:52.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pinwino (2abe1453-323e-3268-bba3-171dfed1f1ce) successfully connected to voice chat
-[31Aug2024 01:20:14.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
-[31Aug2024 01:20:16.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
-[31Aug2024 01:20:16.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rodry_Dra (86d12246-1f3c-3af8-b7a9-2f1c31d28ad9) successfully connected to voice chat
-[31Aug2024 01:20:36.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pinwino lost connection: Disconnected
-[31Aug2024 01:20:36.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino left the game
-[31Aug2024 01:20:36.212] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pinwino
-[31Aug2024 01:23:29.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
-[31Aug2024 01:23:29.273] [Server thread/WARN] [tombstone/]: The death event of the player Rodry_Dra was canceled by another mod
-[31Aug2024 01:23:29.347] [Server thread/INFO] [tombstone/]: The player Rodry_Dra has successfully been saved
-[31Aug2024 01:23:36.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra was slain by entity.mimicer.mimicer
-[31Aug2024 01:23:42.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[31Aug2024 01:25:55.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
-[31Aug2024 01:25:55.122] [Server thread/WARN] [tombstone/]: The death event of the player Rodry_Dra was canceled by another mod
-[31Aug2024 01:25:55.125] [Server thread/INFO] [tombstone/]: The player Rodry_Dra has successfully been saved
-[31Aug2024 01:26:04.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra was slain by entity.hidden_shadow.hidden_shadow
-[31Aug2024 01:28:00.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
-[31Aug2024 01:28:00.800] [Server thread/WARN] [tombstone/]: The death event of the player Rodry_Dra was canceled by another mod
-[31Aug2024 01:28:00.803] [Server thread/INFO] [tombstone/]: The player Rodry_Dra has successfully been saved
-[31Aug2024 01:28:07.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra was slain by entity.mimicer.mimicer
-[31Aug2024 01:30:16.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9 timed out
-[31Aug2024 01:30:16.843] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rodry_Dra
-[31Aug2024 01:30:16.845] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rodry_Dra
-[31Aug2024 01:30:23.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
-[31Aug2024 01:30:24.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
-[31Aug2024 01:30:24.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rodry_Dra (86d12246-1f3c-3af8-b7a9-2f1c31d28ad9) successfully connected to voice chat
-[31Aug2024 01:30:34.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9 timed out
-[31Aug2024 01:30:34.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rodry_Dra
-[31Aug2024 01:30:34.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rodry_Dra
-[31Aug2024 01:30:41.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
-[31Aug2024 01:30:42.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
-[31Aug2024 01:30:42.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rodry_Dra (86d12246-1f3c-3af8-b7a9-2f1c31d28ad9) successfully connected to voice chat
-[31Aug2024 01:30:58.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9 timed out
-[31Aug2024 01:30:58.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rodry_Dra
-[31Aug2024 01:30:58.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rodry_Dra
-[31Aug2024 01:49:31.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
-[31Aug2024 01:51:28.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3180ms or 63 ticks behind
-[31Aug2024 01:53:16.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
-[31Aug2024 01:53:16.600] [Server thread/WARN] [tombstone/]: The death event of the player Rodry_Dra was canceled by another mod
-[31Aug2024 01:53:16.606] [Server thread/INFO] [tombstone/]: The player Rodry_Dra has successfully been saved
-[31Aug2024 01:53:49.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra was slain by entity.kim_dweller.kim_dweller
-[31Aug2024 01:54:45.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodry_Dra lost connection: Disconnected
-[31Aug2024 01:54:45.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra left the game
-[31Aug2024 01:54:45.852] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Rodry_Dra
-[31Aug2024 01:55:37.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[31Aug2024 01:55:37.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
-[31Aug2024 01:59:47.495] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@96d6c14
-[31Aug2024 01:59:47.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pinwino[/192.168.191.196:58163] logged in with entity id 10519 at (1885.8357420887414, 68.5625, -1475.1096558761265)
-[31Aug2024 01:59:47.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino joined the game
-[31Aug2024 01:59:47.753] [Server thread/INFO] [Jade/]: Syncing config to Pinwino (2abe1453-323e-3268-bba3-171dfed1f1ce)
-[31Aug2024 01:59:51.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3831ms or 76 ticks behind
-[31Aug2024 02:00:15.300] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pinwino (18)
-[31Aug2024 02:00:15.302] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pinwino
-[31Aug2024 02:00:50.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2abe1453-323e-3268-bba3-171dfed1f1ce
-[31Aug2024 02:00:51.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2abe1453-323e-3268-bba3-171dfed1f1ce
-[31Aug2024 02:00:51.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pinwino (2abe1453-323e-3268-bba3-171dfed1f1ce) successfully connected to voice chat
-[31Aug2024 02:09:55.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Onion] to Pinwino]
-[31Aug2024 02:10:50.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[31Aug2024 02:13:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
-[31Aug2024 02:13:08.849] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
-[31Aug2024 02:13:08.855] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
-[31Aug2024 02:14:08.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by entity.mimicer.mimicer
-[31Aug2024 02:16:07.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
-[31Aug2024 02:16:07.799] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
-[31Aug2024 02:16:07.805] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
-[31Aug2024 02:16:14.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by entity.mimicer.mimicer
-[31Aug2024 02:16:42.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Traveler's Goggles] to Pinwino]
-[31Aug2024 02:16:49.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Pig Iron Plate Boots] to Pinwino]
-[31Aug2024 02:19:16.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Plate Chestplate] to Pinwino]
-[31Aug2024 02:19:26.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Boot Plating] to Pinwino]
-[31Aug2024 02:19:32.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Plate Helmet] to Pinwino]
-[31Aug2024 02:19:33.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Plate Leggings] to Pinwino]
-[31Aug2024 02:19:35.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Plate Boots] to Pinwino]
-[31Aug2024 02:19:36.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino has reached the goal [Plate Armor]
-[31Aug2024 02:19:37.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Electric Copper Plate Shield] to Pinwino]
-[31Aug2024 02:19:56.905] [Server thread/WARN] [cgm/]: literal{Pinwino}(2abe1453-323e-3268-bba3-171dfed1f1ce) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 85
+[31Aug2024 03:14:40.200] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3301 advancements
+[31Aug2024 03:14:40.214] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id pamhc2crops:fern_drops - error: Not a JSON object: null
+[31Aug2024 03:14:40.215] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id pamhc2crops:grass_drops - error: Not a JSON object: null
+[31Aug2024 03:14:40.215] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id pamhc2crops:tall_grass_drops - error: Not a JSON object: null
+[31Aug2024 03:14:40.216] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[31Aug2024 03:14:40.223] [main/INFO] [supplementaries/]: Loaded  8 flute songs
+[31Aug2024 03:14:40.279] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 139 dynamic modifiers and 0 modifier redirects in 43.55881 ms
+[31Aug2024 03:14:40.286] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 38 modifier tags for 135 modifiers in 6.881993 ms
+[31Aug2024 03:14:40.287] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 49 enchantment to modifier mappings in 1.606177 ms
+[31Aug2024 03:14:40.290] [main/INFO] [tconstruct/]: Loaded 49 spilling fluids in 2.426839 ms
+[31Aug2024 03:14:40.293] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 24 dynamic modifiers in 3.01659 ms
+[31Aug2024 03:14:40.296] [main/INFO] [Diet/]: Loaded 5 diet groups
+[31Aug2024 03:14:40.304] [main/INFO] [Diet/]: Loaded 1 diet suites
+[31Aug2024 03:14:40.317] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 70 materials in 11.91796 ms
+[31Aug2024 03:14:40.318] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 19 materials in 1.349087 ms
+[31Aug2024 03:14:40.334] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 615 stats loaded for 91 materials in 15.568793 ms
+[31Aug2024 03:14:40.364] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 298 traits loaded for 91 materials in 29.45222 ms
+[31Aug2024 03:14:40.376] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 36 tool definitions in 11.678814 ms
+[31Aug2024 03:14:40.385] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 21 station slot layouts in 8.923585 ms
+[31Aug2024 03:14:40.394] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_savanna
+[31Aug2024 03:14:43.258] [main/INFO] [supplementaries/]: Finished additional setup in 84 ms
+[31Aug2024 03:14:43.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[31Aug2024 03:14:43.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[31Aug2024 03:14:43.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[31Aug2024 03:14:43.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[31Aug2024 03:14:43.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[31Aug2024 03:14:43.838] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[31Aug2024 03:14:43.924] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[31Aug2024 03:14:43.925] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[31Aug2024 03:14:43.925] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[31Aug2024 03:14:43.926] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[31Aug2024 03:14:44.235] [Server thread/INFO] [configured/]: Loading server configs...
+[31Aug2024 03:14:44.278] [Server thread/INFO] [Framework/]: Loading server configs...
+[31Aug2024 03:14:44.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[31Aug2024 03:14:55.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[31Aug2024 03:15:01.104] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.119] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.141] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.161] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.167] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.177] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.181] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.190] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.191] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.205] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.212] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.214] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:01.215] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:02.440] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:02.447] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:02.693] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:03.190] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:03.688] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:04.188] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:04.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Aug2024 03:15:05.232] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[31Aug2024 03:15:05.760] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10572 ms
+[31Aug2024 03:15:05.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.820s)! For help, type "help"
+[31Aug2024 03:15:05.870] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[31Aug2024 03:15:05.872] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
+[31Aug2024 03:15:05.873] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
+[31Aug2024 03:15:05.875] [Server thread/INFO] [Diet/]: Generating diet values...
+[31Aug2024 03:15:05.876] [Server thread/INFO] [Diet/]: Finding ungrouped food items...
+[31Aug2024 03:15:05.902] [Server thread/INFO] [Diet/]: Found 1112 ungrouped food items
+[31Aug2024 03:15:05.903] [Server thread/INFO] [Diet/]: Building item-to-recipes map...
+[31Aug2024 03:15:05.939] [Server thread/INFO] [Diet/]: Found 4023 valid items with recipes
+[31Aug2024 03:15:05.946] [Server thread/INFO] [Diet/]: Processing items...
+[31Aug2024 03:15:06.035] [Server thread/INFO] [Diet/]: Processed 1447 items
+[31Aug2024 03:15:06.041] [Server thread/INFO] [Diet/]: Generating diet values took 165.0 ms
+[31Aug2024 03:15:06.041] [Server thread/INFO] [net.stardustlabs.nullscape.Nullscape/]: Thanks for choosing Nullscape!
+[31Aug2024 03:15:06.043] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[31Aug2024 03:15:06.043] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[31Aug2024 03:15:06.059] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[31Aug2024 03:15:06.124] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[31Aug2024 03:15:41.855] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[31Aug2024 03:15:41.959] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@699b5792
+[31Aug2024 03:15:42.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodry_Dra[/192.168.191.220:55143] logged in with entity id 584 at (-23.835380247696534, 69.0, -1043.699999988079)
+[31Aug2024 03:15:42.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra joined the game
+[31Aug2024 03:15:42.314] [Server thread/INFO] [Jade/]: Syncing config to Rodry_Dra (86d12246-1f3c-3af8-b7a9-2f1c31d28ad9)
+[31Aug2024 03:15:47.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5514ms or 110 ticks behind
+[31Aug2024 03:16:05.717] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Rodry_Dra (18)
+[31Aug2024 03:16:05.724] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Rodry_Dra
+[31Aug2024 03:17:03.762] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47eabc6d[id=<null>,name=rakti024,properties={},legacy=false] (/192.168.191.91:63510) lost connection: Disconnected
+[31Aug2024 03:17:10.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
+[31Aug2024 03:17:11.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
+[31Aug2024 03:17:11.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rodry_Dra (86d12246-1f3c-3af8-b7a9-2f1c31d28ad9) successfully connected to voice chat
+[31Aug2024 03:18:26.758] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e78108f[id=<null>,name=rakti024,properties={},legacy=false] (/192.168.191.91:63514) lost connection: Disconnected
+[31Aug2024 03:19:09.861] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68b01c26[id=<null>,name=rakti024,properties={},legacy=false] (/192.168.191.91:63542) lost connection: Disconnected
+[31Aug2024 03:19:26.763] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13ac1f21[id=<null>,name=rakti024,properties={},legacy=false] (/192.168.191.91:63555) lost connection: Disconnected
+[31Aug2024 03:19:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Rodry_Dra a server operator
+[31Aug2024 03:20:44.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> holap
+[31Aug2024 03:21:11.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rodry_Dra: Applied effect Resistance to Rodry_Dra]
+[31Aug2024 03:21:12.562] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c6bde3ba-01b8-3589-990c-03da218ab864.json: Don't know what skinwalker_overhaul:skinwalker_overhaul is
+[31Aug2024 03:21:12.579] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11c1752c
+[31Aug2024 03:21:12.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rakti024[/192.168.191.91:63608] logged in with entity id 1603 at (88.5, 68.0, -330.5)
+[31Aug2024 03:21:12.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rakti024 joined the game
+[31Aug2024 03:21:12.817] [Server thread/INFO] [Jade/]: Syncing config to rakti024 (c6bde3ba-01b8-3589-990c-03da218ab864)
+[31Aug2024 03:21:14.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[31Aug2024 03:21:15.486] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rakti024 (18)
+[31Aug2024 03:21:15.488] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rakti024
+[31Aug2024 03:21:21.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c6bde3ba-01b8-3589-990c-03da218ab864
+[31Aug2024 03:21:22.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c6bde3ba-01b8-3589-990c-03da218ab864
+[31Aug2024 03:21:22.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player rakti024 (c6bde3ba-01b8-3589-990c-03da218ab864) successfully connected to voice chat
+[31Aug2024 03:21:56.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> holap
+[31Aug2024 03:22:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rakti024> DONDE TAS
+[31Aug2024 03:22:50.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> en mi casa
+[31Aug2024 03:22:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rakti024> pasa cords
+[31Aug2024 03:23:12.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> -26 -1046
