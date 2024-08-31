@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-08-31 00:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-08-30 21:35:28 +0000"
@@ -1096,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-08-31 00:07:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-08-29 03:34:08 +0000"
@@ -1716,6 +1728,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2024-08-31 00:12:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-08-29 03:30:35 +0000"
@@ -2258,6 +2276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-08-31 00:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-08-29 05:03:51 +0000"
@@ -2489,6 +2513,12 @@
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2024-08-30 23:58:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2024-08-31 00:07:31 +0000"
     },
     "done": true
   },
@@ -2825,6 +2855,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_the_recipe": "2024-08-29 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2024-08-31 00:07:31 +0000"
     },
     "done": true
   },

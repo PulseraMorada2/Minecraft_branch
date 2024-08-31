@@ -7279,3 +7279,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Aug2024 00:05:06.274] [Server thread/WARN] [cgm/]: literal{Pinwino}(2abe1453-323e-3268-bba3-171dfed1f1ce) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 109
 [31Aug2024 00:05:11.996] [Server thread/WARN] [cgm/]: literal{Pinwino}(2abe1453-323e-3268-bba3-171dfed1f1ce) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 87
 [31Aug2024 00:07:02.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Glowstone] to Pinwino]
+[31Aug2024 00:08:29.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2024 00:08:29.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2024 00:08:33.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Set own game mode to Creative Mode]
+[31Aug2024 00:11:58.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Set own game mode to Survival Mode]
+[31Aug2024 00:12:47.634] [Server thread/WARN] [cgm/]: literal{Pinwino}(2abe1453-323e-3268-bba3-171dfed1f1ce) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 102
+[31Aug2024 00:13:10.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Set own game mode to Spectator Mode]
+[31Aug2024 00:13:21.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Set own game mode to Survival Mode]
+[31Aug2024 00:13:29.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2024 00:13:29.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
