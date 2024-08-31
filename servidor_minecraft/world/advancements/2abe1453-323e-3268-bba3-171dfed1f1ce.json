@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "tinkers_reforged:recipes/red_beryl_gem_to_block": {
+    "criteria": {
+      "has_gem": "2024-08-31 04:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-08-29 03:32:54 +0000"
@@ -194,6 +200,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-08-29 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "tinkers_reforged:recipes/tinkers_reforged/resources/crafting/red_beryl_gem_from_smelting_red_beryl_dust": {
+    "criteria": {
+      "has_item": "2024-08-31 04:11:34 +0000"
     },
     "done": true
   },
@@ -374,6 +386,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-08-29 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "tinkers_reforged:recipes/tinkers_reforged/resources/blasting/ore/red_beryl": {
+    "criteria": {
+      "has_item": "2024-08-31 04:11:34 +0000"
     },
     "done": true
   },
@@ -770,6 +788,12 @@
     },
     "done": true
   },
+  "tinkers_reforged:recipes/tinkers_reforged/resources/smelting/ore/red_beryl": {
+    "criteria": {
+      "has_item": "2024-08-31 04:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-08-29 04:12:47 +0000"
@@ -784,6 +808,12 @@
       "minecraft:creeper": "2024-08-29 04:14:12 +0000",
       "minecraft:husk": "2024-08-29 04:37:02 +0000",
       "minecraft:zombie": "2024-08-29 03:34:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
     },
     "done": false
   },
@@ -1080,6 +1110,12 @@
       "has_blackstone": "2024-08-29 05:00:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/tconstruct/general/tables/crafting_station": {
     "criteria": {
@@ -1471,6 +1507,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_ladder": {
     "criteria": {
       "has_item": "2024-08-29 04:50:27 +0000"
@@ -1494,6 +1536,12 @@
       "has_cobblestone": "2024-08-29 03:34:52 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1633,6 +1681,12 @@
       "has_iron_ingot": "2024-08-29 03:36:38 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1871,6 +1925,12 @@
     },
     "done": true
   },
+  "tinkers_reforged:recipes/tinkers_reforged/resources/blasting/raw/red_beryl": {
+    "criteria": {
+      "has_item": "2024-08-31 04:11:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-08-29 04:45:26 +0000"
@@ -1894,6 +1954,12 @@
       "has_white_wool": "2024-08-29 04:16:03 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
     "criteria": {
@@ -2233,6 +2299,12 @@
     },
     "done": true
   },
+  "tinkers_reforged:recipes/tinkers_reforged/resources/smelting/raw/red_beryl": {
+    "criteria": {
+      "has_item": "2024-08-31 04:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-08-29 03:34:52 +0000"
@@ -2521,6 +2593,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-08-30 20:52:44 +0000"
@@ -2701,6 +2779,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-08-29 03:34:08 +0000"
@@ -2784,6 +2868,12 @@
       "has_sign": "2024-08-31 00:20:08 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
@@ -3375,6 +3465,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-08-29 04:41:21 +0000"
@@ -3405,6 +3501,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-08-29 03:30:36 +0000"
@@ -3422,6 +3524,12 @@
       "has_white_wool": "2024-08-29 04:16:03 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-31 04:32:26 +0000"
+    },
+    "done": false
   },
   "cgm:recipes/cgm/short_scope": {
     "criteria": {

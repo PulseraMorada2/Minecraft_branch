@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-08-31 04:26:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2024-08-28 04:29:27 +0000"
@@ -509,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-08-31 04:27:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-08-31 03:21:12 +0000"
@@ -599,9 +611,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-08-31 04:26:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-08-28 05:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
     },
     "done": true
   },
@@ -614,6 +638,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-08-28 18:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-08-31 03:54:06 +0000"
     },
     "done": true
   },
@@ -719,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/standard_smithing": {
     "criteria": {
       "has_standard": "2024-08-28 19:55:16 +0000"
@@ -735,6 +771,7 @@
     "criteria": {
       "minecraft:pillager": "2024-08-28 04:35:22 +0000",
       "minecraft:skeleton": "2024-08-28 04:47:15 +0000",
+      "minecraft:vindicator": "2024-08-31 04:20:05 +0000",
       "minecraft:spider": "2024-08-27 18:09:19 +0000",
       "minecraft:creeper": "2024-08-28 04:37:29 +0000",
       "minecraft:zombie": "2024-08-27 18:08:25 +0000",
@@ -742,11 +779,11 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "aquamirae:recipes/wisteria_niveis": {
     "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
+      "has_item": "2024-08-31 04:13:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1024,6 +1061,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_pants": {
     "criteria": {
       "has_item": "2024-08-28 04:40:55 +0000"
@@ -1054,11 +1097,11 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
     "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
+      "has_item": "2024-08-31 04:26:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
@@ -1186,6 +1229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-08-31 04:27:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-08-28 19:47:37 +0000"
@@ -1303,6 +1352,12 @@
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2024-08-28 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-08-31 04:26:51 +0000"
     },
     "done": true
   },
@@ -1444,12 +1499,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-08-31 03:21:12 +0000"
@@ -1480,12 +1529,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-08-28 05:05:37 +0000"
@@ -1515,8 +1558,12 @@
       "minecraft:taiga": "2024-08-28 19:51:02 +0000",
       "minecraft:frozen_river": "2024-08-28 18:23:54 +0000",
       "minecraft:river": "2024-08-28 19:51:06 +0000",
+      "minecraft:snowy_plains": "2024-08-31 04:10:21 +0000",
       "minecraft:snowy_taiga": "2024-08-27 18:03:58 +0000",
-      "minecraft:swamp": "2024-08-28 04:26:41 +0000"
+      "minecraft:swamp": "2024-08-28 04:26:41 +0000",
+      "minecraft:frozen_ocean": "2024-08-31 04:10:44 +0000",
+      "minecraft:deep_frozen_ocean": "2024-08-31 04:13:10 +0000",
+      "minecraft:snowy_beach": "2024-08-31 04:10:26 +0000"
     },
     "done": false
   },
@@ -1529,6 +1576,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-08-28 04:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-08-31 04:26:51 +0000"
     },
     "done": true
   },
@@ -1604,12 +1657,6 @@
       "has_iron_ingot": "2024-08-28 04:32:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1689,9 +1736,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2024-08-28 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2024-08-31 03:42:01 +0000"
     },
     "done": true
   },
@@ -1724,6 +1783,12 @@
       "has_iron_ingot": "2024-08-28 04:32:28 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "rock": "2024-08-31 03:42:01 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
@@ -1858,12 +1923,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-08-27 18:09:27 +0000"
@@ -1879,6 +1938,12 @@
   "travelersbackpack:recipes/travelersbackpack/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2024-08-27 18:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-08-31 04:27:37 +0000"
     },
     "done": true
   },
@@ -1903,6 +1968,12 @@
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-08-31 03:21:12 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2024-08-31 04:19:32 +0000"
     },
     "done": true
   },
@@ -2014,6 +2085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
+    },
+    "done": true
+  },
   "tinkers_reforged:recipes/tinkers_reforged/resources/crafting/hureaulite_gem_from_smelting_hureaulite_dust": {
     "criteria": {
       "has_item": "2024-08-28 05:05:38 +0000"
@@ -2053,6 +2130,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-08-27 18:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
     },
     "done": true
   },
@@ -2113,6 +2196,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-08-28 19:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-08-31 03:46:17 +0000"
     },
     "done": true
   },
@@ -2180,6 +2269,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-08-31 04:27:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-08-31 03:21:12 +0000"
@@ -2207,6 +2302,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-08-27 18:12:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-08-31 04:24:17 +0000"
     },
     "done": true
   },
@@ -2312,6 +2413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-08-27 18:09:27 +0000"
@@ -2414,6 +2521,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-08-31 04:13:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-08-31 03:21:12 +0000"
@@ -2461,12 +2574,6 @@
       "has_log": "2024-08-28 04:34:45 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
@@ -2540,9 +2647,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-08-28 04:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
     },
     "done": true
   },
@@ -2555,6 +2674,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-08-28 04:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-08-31 03:47:51 +0000"
     },
     "done": true
   },
@@ -2588,6 +2713,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/diamond": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/chicken": {
     "criteria": {
       "has_feather": "2024-08-28 04:40:54 +0000"
@@ -2606,6 +2737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-08-31 04:26:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2024-08-28 04:30:49 +0000"
@@ -2618,15 +2755,15 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-08-27 18:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-08-31 03:47:57 +0000"
     },
     "done": true
   },
@@ -2639,6 +2776,12 @@
   "tconstruct:recipes/tconstruct/general/common/iron_platform": {
     "criteria": {
       "has_bars": "2024-08-28 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
     },
     "done": true
   },
@@ -2684,12 +2827,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-08-28 19:47:37 +0000"
@@ -2723,6 +2860,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv1": {
     "criteria": {
       "has_iron": "2024-08-31 03:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-08-31 03:46:17 +0000"
     },
     "done": true
   },
@@ -2771,6 +2914,12 @@
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-08-28 18:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
     },
     "done": true
   },
@@ -2879,6 +3028,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-08-27 18:09:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2024-08-31 04:27:48 +0000"
     },
     "done": true
   },
@@ -3002,6 +3157,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf": {
+    "criteria": {
+      "has_book": "2024-08-31 04:27:37 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/shell": {
     "criteria": {
       "has_gunpowder": "2024-08-28 04:37:29 +0000"
@@ -3110,6 +3271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-08-31 04:27:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-08-28 04:40:52 +0000"
@@ -3158,6 +3325,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "sledge_hammer": "2024-08-31 03:42:01 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-08-31 03:21:12 +0000"
@@ -3188,11 +3361,11 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
     "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
+      "has_item": "2024-08-31 03:47:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
@@ -3218,15 +3391,15 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-08-27 18:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-08-31 04:21:07 +0000"
     },
     "done": true
   },
@@ -3241,12 +3414,6 @@
       "has_andesite": "2024-08-31 03:26:25 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-31 03:30:13 +0000"
-    },
-    "done": false
   },
   "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_shield": {
     "criteria": {
@@ -3311,6 +3478,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-08-28 04:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-08-31 03:47:57 +0000"
     },
     "done": true
   },
