@@ -530,3 +530,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Aug2024 01:54:45.852] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Rodry_Dra
 [31Aug2024 01:55:37.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [31Aug2024 01:55:37.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[31Aug2024 01:59:47.495] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@96d6c14
+[31Aug2024 01:59:47.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pinwino[/192.168.191.196:58163] logged in with entity id 10519 at (1885.8357420887414, 68.5625, -1475.1096558761265)
+[31Aug2024 01:59:47.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino joined the game
+[31Aug2024 01:59:47.753] [Server thread/INFO] [Jade/]: Syncing config to Pinwino (2abe1453-323e-3268-bba3-171dfed1f1ce)
+[31Aug2024 01:59:51.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3831ms or 76 ticks behind
+[31Aug2024 02:00:15.300] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pinwino (18)
+[31Aug2024 02:00:15.302] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pinwino
+[31Aug2024 02:00:50.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2abe1453-323e-3268-bba3-171dfed1f1ce
+[31Aug2024 02:00:51.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2abe1453-323e-3268-bba3-171dfed1f1ce
+[31Aug2024 02:00:51.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pinwino (2abe1453-323e-3268-bba3-171dfed1f1ce) successfully connected to voice chat
