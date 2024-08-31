@@ -17,3 +17,110 @@
 [31Aug2024 00:12:47.634] [Server thread/WARN] [cgm/]: literal{Pinwino}(2abe1453-323e-3268-bba3-171dfed1f1ce) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 102
 [31Aug2024 00:13:10.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Set own game mode to Spectator Mode]
 [31Aug2024 00:13:21.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Set own game mode to Survival Mode]
+[31Aug2024 00:20:57.700] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@788040a1[id=<null>,name=Rodry_Dra,properties={},legacy=false] (/192.168.191.220:60862) lost connection: Disconnected
+[31Aug2024 00:21:29.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31Aug2024 00:21:29.068] [Server thread/WARN] [tombstone/]: The death event of the player Pinwino was canceled by another mod
+[31Aug2024 00:21:29.080] [Server thread/INFO] [tombstone/]: The player Pinwino has successfully been saved
+[31Aug2024 00:21:36.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino was slain by entity.mimicer.mimicer
+[31Aug2024 00:21:51.021] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ba4cbef[id=<null>,name=Rodry_Dra,properties={},legacy=false] (/192.168.191.220:60915) lost connection: Disconnected
+[31Aug2024 00:25:05.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Glow Item Frame] to Pinwino]
+[31Aug2024 00:25:05.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Glow Item Frame] to Pinwino]
+[31Aug2024 00:25:06.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Glow Item Frame] to Pinwino]
+[31Aug2024 00:25:06.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Glow Item Frame] to Pinwino]
+[31Aug2024 00:25:06.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Glow Item Frame] to Pinwino]
+[31Aug2024 00:25:06.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Glow Item Frame] to Pinwino]
+[31Aug2024 00:25:06.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Glow Item Frame] to Pinwino]
+[31Aug2024 00:25:07.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Glow Item Frame] to Pinwino]
+[31Aug2024 00:27:35.328] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/86d12246-1f3c-3af8-b7a9-2f1c31d28ad9.json: Don't know what skinwalker_overhaul:skinwalker_overhaul is
+[31Aug2024 00:27:35.331] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/86d12246-1f3c-3af8-b7a9-2f1c31d28ad9.json: Don't know what skinwalker_overhaul:skinwalker_overhaul is
+[31Aug2024 00:27:35.407] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ad6d769
+[31Aug2024 00:27:35.424] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodry_Dra[/192.168.191.220:61383] logged in with entity id 7762 at (-20.217556946227514, 69.0, -1047.4063944244836)
+[31Aug2024 00:27:35.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra joined the game
+[31Aug2024 00:27:35.556] [Server thread/INFO] [Jade/]: Syncing config to Rodry_Dra (86d12246-1f3c-3af8-b7a9-2f1c31d28ad9)
+[31Aug2024 00:27:43.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7727ms or 154 ticks behind
+[31Aug2024 00:27:53.190] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Rodry_Dra (18)
+[31Aug2024 00:27:53.194] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Rodry_Dra
+[31Aug2024 00:28:38.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
+[31Aug2024 00:28:39.494] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
+[31Aug2024 00:28:39.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rodry_Dra (86d12246-1f3c-3af8-b7a9-2f1c31d28ad9) successfully connected to voice chat
+[31Aug2024 00:29:37.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> uuuuuuuuh
+[31Aug2024 00:29:43.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> me tardo el doble en cargar
+[31Aug2024 00:29:49.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> si por el jei
+[31Aug2024 00:29:50.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> digo
+[31Aug2024 00:29:54.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> el journeymaps
+[31Aug2024 00:30:04.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> yo lo quite porque no me gusta
+[31Aug2024 00:30:19.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> estoy acostumbrado a jugar sin minimapa a puras coordenadas
+[31Aug2024 00:30:36.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> yo ese
+[31Aug2024 00:30:41.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> si quieres
+[31Aug2024 00:30:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> dale a la j, opciones
+[31Aug2024 00:30:49.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> prefiero usar solo los wypoint aun qeu sea
+[31Aug2024 00:31:09.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> minimapa predefinido 1 y deshabilitas el minimapa
+[31Aug2024 00:31:24.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> pero lo sigues teniendo, y los waypoints todo
+[31Aug2024 00:31:42.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> Para hacer que las marcas blancas no te aparezcanle das en
+[31Aug2024 00:31:47.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> pi0la
+[31Aug2024 00:31:53.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> le das a la n
+[31Aug2024 00:32:04.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> y en donde dice activado marcalo como desactivado
+[31Aug2024 00:32:16.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> pi0la
+[31Aug2024 00:32:27.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> tendras el waypoint pero no marcado, y cuando lo quieras marcar lo dejas en activado
+[31Aug2024 00:32:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Basic Bullet] to Pinwino]
+[31Aug2024 00:32:44.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> weno
+[31Aug2024 00:32:44.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
+[31Aug2024 00:32:46.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
+[31Aug2024 00:33:00.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
+[31Aug2024 00:33:02.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
+[31Aug2024 00:33:27.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Short Scope] to Pinwino]
+[31Aug2024 00:33:32.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Shell] to Pinwino]
+[31Aug2024 00:33:34.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Shell] to Pinwino]
+[31Aug2024 00:33:35.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Shell] to Pinwino]
+[31Aug2024 00:33:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Shell] to Pinwino]
+[31Aug2024 00:34:57.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> y para colocar un waypoint dale a la B
+[31Aug2024 00:37:03.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Tinker's Gadgetry] to Pinwino]
+[31Aug2024 00:37:08.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Encyclopedia of Tinkering] to Pinwino]
+[31Aug2024 00:37:08.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino has reached the goal [Encyclopedia]
+[31Aug2024 00:38:12.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Reforging Guide] to Pinwino]
+[31Aug2024 00:41:03.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodry_Dra moved too quickly! 0.45630643757708,-11.172462371723846,-0.21067432515860673
+[31Aug2024 00:41:18.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Dirt] to Pinwino]
+[31Aug2024 00:41:57.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino has reached the goal [Skyslime Island]
+[31Aug2024 00:42:42.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Rock Hand Axe] to Pinwino]
+[31Aug2024 00:43:25.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> zzzzz
+[31Aug2024 00:43:35.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> zzz
+[31Aug2024 00:43:47.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
+[31Aug2024 00:43:49.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Basic Bullet] to Pinwino]
+[31Aug2024 00:45:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Dirt] to Pinwino]
+[31Aug2024 00:46:50.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Dirt] to Pinwino]
+[31Aug2024 00:47:18.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Reinforced Cauldron] to Pinwino]
+[31Aug2024 00:47:22.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 64 [Dirt] to Pinwino]
+[31Aug2024 00:48:25.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pinwino: Gave 1 [Etryx Excavator] to Pinwino]
+[31Aug2024 00:48:26.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pinwino has reached the goal [Netherite Tier]
+[31Aug2024 00:48:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> wat
+[31Aug2024 00:48:38.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> queeee
+[31Aug2024 00:48:48.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> Mrd
+[31Aug2024 00:49:02.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> Encontre una pala de netherite JAJAJJAJA
+[31Aug2024 00:49:06.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> ¿?
+[31Aug2024 00:49:08.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> ajjajajaja
+[31Aug2024 00:49:14.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> entre a una dungueon
+[31Aug2024 00:49:46.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> y en un cofre habia una pala de netherite xd
+[31Aug2024 00:49:48.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> del tinkers
+[31Aug2024 00:49:49.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> watefak
+[31Aug2024 00:49:50.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> jajajajaj
+[31Aug2024 00:49:53.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> pi0la
+[31Aug2024 00:49:58.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> se supone que hice que no hubieran objetos asi
+[31Aug2024 00:55:04.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9 timed out
+[31Aug2024 00:55:04.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rodry_Dra
+[31Aug2024 00:55:04.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rodry_Dra
+[31Aug2024 00:55:10.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
+[31Aug2024 00:55:11.118] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86d12246-1f3c-3af8-b7a9-2f1c31d28ad9
+[31Aug2024 00:55:11.118] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rodry_Dra (86d12246-1f3c-3af8-b7a9-2f1c31d28ad9) successfully connected to voice chat
+[31Aug2024 00:56:48.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> zzzzzz
+[31Aug2024 00:57:00.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> voyp
+[31Aug2024 00:57:07.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> esoty quitando una isla del tinkers ajjaja
+[31Aug2024 00:57:08.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> no bueno
+[31Aug2024 00:57:11.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> ya casi termino
+[31Aug2024 00:57:13.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> tjajajajaj
+[31Aug2024 00:57:21.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodry_Dra> tyo ando acomodando los cofres
+[31Aug2024 00:57:37.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pinwino> liotop
+[31Aug2024 00:58:25.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31Aug2024 00:58:25.127] [Server thread/WARN] [tombstone/]: The death event of the player Rodry_Dra was canceled by another mod
+[31Aug2024 00:58:25.133] [Server thread/INFO] [tombstone/]: The player Rodry_Dra has successfully been saved
+[31Aug2024 00:58:35.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodry_Dra was slain by entity.hidden_shadow.hidden_shadow
+[31Aug2024 00:58:49.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
