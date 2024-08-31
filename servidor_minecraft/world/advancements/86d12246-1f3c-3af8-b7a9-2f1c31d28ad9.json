@@ -2567,6 +2567,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-08-31 01:43:53 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/twilightforest/firefly_jar": {
     "criteria": {
       "has_item": "2024-08-30 21:31:20 +0000"
